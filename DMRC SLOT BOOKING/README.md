@@ -1,9 +1,6 @@
-# Team Webminers
-### A Slot booking App for the Delhi Metro for easy and safe travel post-Pandemic
----
----
-### [***Deployment***](https://dmrc.herokuapp.com/)
-Made For a Hackathon
+ A Slot booking App for the Delhi Metro for easy and safe travel post-Pandemic
+ [***Deployment***](https://dmrc.herokuapp.com/)
+
 ---
 ### Requirements :
 * NodeJS :  **v12.16.3**
