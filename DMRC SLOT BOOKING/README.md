@@ -9,8 +9,8 @@
 ---
 
 ### How to run on Local System:
-1-Clone the repo.
-2-run the command to install all the dependencies required
+*Clone the repo.**
+*run the command to install all the dependencies required**
 npm i
 3-Create a MonogDB Cluster and Paste its connection link into the ClusterURI variable in the config/default.json file.
 Note : The default value will create a cluster itself but it requires mongoDB to be installed in the system prior to it.
