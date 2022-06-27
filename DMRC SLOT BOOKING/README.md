@@ -8,7 +8,7 @@
 * MongoDB or an online Cluster on MongoDB
 ---
 
-### How to run on Local System:
+<!-- ### How to run on Local System:
 1-Clone the repo. /n
 2-run the command to install all the dependencies required /n
 npm i
@@ -17,4 +17,4 @@ Note : The default value will create a cluster itself but it requires mongoDB to
 4-Edit the values of Various other parameters in the config/default.json according to yourself.
 5-Now run the command to start the server
 node server
-The App Shall now be running on PORT = 5555(default)
+The App Shall now be running on PORT = 5555(default) -->
